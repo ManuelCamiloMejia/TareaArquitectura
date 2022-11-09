@@ -1,0 +1,146 @@
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\WebAPI.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\WebAPI.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Api\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\WebAPI.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\WebAPI.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\es\System.Web.Http.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Orientada a Servicios\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.pdb

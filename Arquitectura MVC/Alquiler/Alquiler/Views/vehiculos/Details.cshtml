@@ -1,0 +1,67 @@
+﻿@model Alquiler.vehiculos
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>vehiculos</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.matricula)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.matricula)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PesoToneladas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PesoToneladas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EstadosVehiculo.nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EstadosVehiculo.nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.tipoVehiculo.tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tipoVehiculo.tipo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idVehiculo }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

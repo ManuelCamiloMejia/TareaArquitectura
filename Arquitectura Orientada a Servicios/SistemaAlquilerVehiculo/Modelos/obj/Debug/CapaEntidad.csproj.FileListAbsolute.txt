@@ -1,0 +1,14 @@
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\obj\Debug\CapaEntidad.csproj.CopyComplete
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\Desktop\Arquitectura soat\SistemaAlquilerVehiculo\CapaEntidad\obj\Debug\CapaEntidad.pdb

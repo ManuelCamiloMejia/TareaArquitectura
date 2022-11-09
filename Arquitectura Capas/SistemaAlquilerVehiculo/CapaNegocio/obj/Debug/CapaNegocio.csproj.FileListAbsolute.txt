@@ -1,0 +1,33 @@
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\source\repos\CapaPresentacion\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\manuel.mejia\Desktop\Proyecto Alquiler Vehiculos\Arquitectura Capas\SistemaAlquilerVehiculo\CapaNegocio\obj\Debug\CapaNegocio.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario", "Formulario\Formulario.csproj", "{E558F7EC-6C8F-4B1E-A076-5DAC6B5404A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{4E3B27EE-CEB1-47F6-9932-292637A9EFB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E558F7EC-6C8F-4B1E-A076-5DAC6B5404A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E558F7EC-6C8F-4B1E-A076-5DAC6B5404A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E558F7EC-6C8F-4B1E-A076-5DAC6B5404A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E558F7EC-6C8F-4B1E-A076-5DAC6B5404A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E3B27EE-CEB1-47F6-9932-292637A9EFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3B27EE-CEB1-47F6-9932-292637A9EFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3B27EE-CEB1-47F6-9932-292637A9EFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3B27EE-CEB1-47F6-9932-292637A9EFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6722CDE3-312F-42D4-9334-5F91C5D4D9C6}
+	EndGlobalSection
+EndGlobal

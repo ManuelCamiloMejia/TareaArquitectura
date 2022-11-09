@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Alquiler.vehiculos>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.matricula)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.modelo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PesoToneladas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EstadosVehiculo.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.tipoVehiculo.tipo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.matricula)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.modelo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PesoToneladas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EstadosVehiculo.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.tipoVehiculo.tipo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.idVehiculo }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idVehiculo }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.idVehiculo })
+        </td>
+    </tr>
+}
+
+</table>

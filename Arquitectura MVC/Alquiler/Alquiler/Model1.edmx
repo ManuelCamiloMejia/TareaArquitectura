@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="AlquilerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Alquileres">
+          <Key>
+            <PropertyRef Name="idAlquiler" />
+          </Key>
+          <Property Name="idAlquiler" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="idUsuario" Type="int" />
+          <Property Name="idVehiculo" Type="int" />
+          <Property Name="precioAlquiler" Type="decimal" Precision="10" Scale="2" />
+          <Property Name="idEstado" Type="bit" />
+          <Property Name="numeroDias" Type="int" />
+        </EntityType>
+        <EntityType Name="EstadosVehiculo">
+          <Key>
+            <PropertyRef Name="IdEstado" />
+          </Key>
+          <Property Name="IdEstado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nombre" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="tipoVehiculo">
+          <Key>
+            <PropertyRef Name="idtipo" />
+          </Key>
+          <Property Name="idtipo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="tipo" Type="varchar" MaxLength="50" />
+          <Property Name="precioAlquiler" Type="decimal" Precision="18" Scale="0" />
+        </EntityType>
+        <EntityType Name="vehiculos">
+          <Key>
+            <PropertyRef Name="idVehiculo" />
+          </Key>
+          <Property Name="idVehiculo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="matricula" Type="varchar" MaxLength="20" />
+          <Property Name="marca" Type="varchar" MaxLength="50" />
+          <Property Name="modelo" Type="varchar" MaxLength="50" />
+          <Property Name="idTipoVehiculo" Type="int" />
+          <Property Name="idEstado" Type="int" />
+          <Property Name="PesoToneladas" Type="int" />
+        </EntityType>
+        <Association Name="FK__Alquilere__idVeh__31EC6D26">
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="0..1" />
+          <End Role="Alquileres" Type="Self.Alquileres" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="vehiculos">
+              <PropertyRef Name="idVehiculo" />
+            </Principal>
+            <Dependent Role="Alquileres">
+              <PropertyRef Name="idVehiculo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_vehiculos_EstadosVehiculo">
+          <End Role="EstadosVehiculo" Type="Self.EstadosVehiculo" Multiplicity="0..1" />
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EstadosVehiculo">
+              <PropertyRef Name="IdEstado" />
+            </Principal>
+            <Dependent Role="vehiculos">
+              <PropertyRef Name="idEstado" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_vehiculos_tipoVehiculo">
+          <End Role="tipoVehiculo" Type="Self.tipoVehiculo" Multiplicity="0..1" />
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tipoVehiculo">
+              <PropertyRef Name="idtipo" />
+            </Principal>
+            <Dependent Role="vehiculos">
+              <PropertyRef Name="idTipoVehiculo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="AlquilerModelStoreContainer">
+          <EntitySet Name="Alquileres" EntityType="Self.Alquileres" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EstadosVehiculo" EntityType="Self.EstadosVehiculo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="tipoVehiculo" EntityType="Self.tipoVehiculo" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="vehiculos" EntityType="Self.vehiculos" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Alquilere__idVeh__31EC6D26" Association="Self.FK__Alquilere__idVeh__31EC6D26">
+            <End Role="vehiculos" EntitySet="vehiculos" />
+            <End Role="Alquileres" EntitySet="Alquileres" />
+          </AssociationSet>
+          <AssociationSet Name="FK_vehiculos_EstadosVehiculo" Association="Self.FK_vehiculos_EstadosVehiculo">
+            <End Role="EstadosVehiculo" EntitySet="EstadosVehiculo" />
+            <End Role="vehiculos" EntitySet="vehiculos" />
+          </AssociationSet>
+          <AssociationSet Name="FK_vehiculos_tipoVehiculo" Association="Self.FK_vehiculos_tipoVehiculo">
+            <End Role="tipoVehiculo" EntitySet="tipoVehiculo" />
+            <End Role="vehiculos" EntitySet="vehiculos" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AlquilerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Alquileres">
+          <Key>
+            <PropertyRef Name="idAlquiler" />
+          </Key>
+          <Property Name="idAlquiler" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="idUsuario" Type="Int32" />
+          <Property Name="idVehiculo" Type="Int32" />
+          <Property Name="precioAlquiler" Type="Decimal" Precision="10" Scale="2" />
+          <Property Name="idEstado" Type="Boolean" />
+          <Property Name="numeroDias" Type="Int32" />
+          <NavigationProperty Name="vehiculos" Relationship="Self.FK__Alquilere__idVeh__31EC6D26" FromRole="Alquileres" ToRole="vehiculos" />
+        </EntityType>
+        <EntityType Name="EstadosVehiculo">
+          <Key>
+            <PropertyRef Name="IdEstado" />
+          </Key>
+          <Property Name="IdEstado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="vehiculos" Relationship="Self.FK_vehiculos_EstadosVehiculo" FromRole="EstadosVehiculo" ToRole="vehiculos" />
+        </EntityType>
+        <EntityType Name="tipoVehiculo">
+          <Key>
+            <PropertyRef Name="idtipo" />
+          </Key>
+          <Property Name="idtipo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="tipo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="precioAlquiler" Type="Decimal" Precision="18" Scale="0" />
+          <NavigationProperty Name="vehiculos" Relationship="Self.FK_vehiculos_tipoVehiculo" FromRole="tipoVehiculo" ToRole="vehiculos" />
+        </EntityType>
+        <EntityType Name="vehiculos">
+          <Key>
+            <PropertyRef Name="idVehiculo" />
+          </Key>
+          <Property Name="idVehiculo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="matricula" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="marca" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="idTipoVehiculo" Type="Int32" />
+          <Property Name="idEstado" Type="Int32" />
+          <Property Name="PesoToneladas" Type="Int32" />
+          <NavigationProperty Name="Alquileres" Relationship="Self.FK__Alquilere__idVeh__31EC6D26" FromRole="vehiculos" ToRole="Alquileres" />
+          <NavigationProperty Name="EstadosVehiculo" Relationship="Self.FK_vehiculos_EstadosVehiculo" FromRole="vehiculos" ToRole="EstadosVehiculo" />
+          <NavigationProperty Name="tipoVehiculo" Relationship="Self.FK_vehiculos_tipoVehiculo" FromRole="vehiculos" ToRole="tipoVehiculo" />
+        </EntityType>
+        <Association Name="FK__Alquilere__idVeh__31EC6D26">
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="0..1" />
+          <End Role="Alquileres" Type="Self.Alquileres" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="vehiculos">
+              <PropertyRef Name="idVehiculo" />
+            </Principal>
+            <Dependent Role="Alquileres">
+              <PropertyRef Name="idVehiculo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_vehiculos_EstadosVehiculo">
+          <End Role="EstadosVehiculo" Type="Self.EstadosVehiculo" Multiplicity="0..1" />
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EstadosVehiculo">
+              <PropertyRef Name="IdEstado" />
+            </Principal>
+            <Dependent Role="vehiculos">
+              <PropertyRef Name="idEstado" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_vehiculos_tipoVehiculo">
+          <End Role="tipoVehiculo" Type="Self.tipoVehiculo" Multiplicity="0..1" />
+          <End Role="vehiculos" Type="Self.vehiculos" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="tipoVehiculo">
+              <PropertyRef Name="idtipo" />
+            </Principal>
+            <Dependent Role="vehiculos">
+              <PropertyRef Name="idTipoVehiculo" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="AlquilerEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Alquileres" EntityType="Self.Alquileres" />
+          <EntitySet Name="EstadosVehiculo" EntityType="Self.EstadosVehiculo" />
+          <EntitySet Name="tipoVehiculo" EntityType="Self.tipoVehiculo" />
+          <EntitySet Name="vehiculos" EntityType="Self.vehiculos" />
+          <AssociationSet Name="FK__Alquilere__idVeh__31EC6D26" Association="Self.FK__Alquilere__idVeh__31EC6D26">
+            <End Role="vehiculos" EntitySet="vehiculos" />
+            <End Role="Alquileres" EntitySet="Alquileres" />
+          </AssociationSet>
+          <AssociationSet Name="FK_vehiculos_EstadosVehiculo" Association="Self.FK_vehiculos_EstadosVehiculo">
+            <End Role="EstadosVehiculo" EntitySet="EstadosVehiculo" />
+            <End Role="vehiculos" EntitySet="vehiculos" />
+          </AssociationSet>
+          <AssociationSet Name="FK_vehiculos_tipoVehiculo" Association="Self.FK_vehiculos_tipoVehiculo">
+            <End Role="tipoVehiculo" EntitySet="tipoVehiculo" />
+            <End Role="vehiculos" EntitySet="vehiculos" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AlquilerModelStoreContainer" CdmEntityContainer="AlquilerEntities">
+          <EntitySetMapping Name="Alquileres">
+            <EntityTypeMapping TypeName="AlquilerModel.Alquileres">
+              <MappingFragment StoreEntitySet="Alquileres">
+                <ScalarProperty Name="idAlquiler" ColumnName="idAlquiler" />
+                <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+                <ScalarProperty Name="idVehiculo" ColumnName="idVehiculo" />
+                <ScalarProperty Name="precioAlquiler" ColumnName="precioAlquiler" />
+                <ScalarProperty Name="idEstado" ColumnName="idEstado" />
+                <ScalarProperty Name="numeroDias" ColumnName="numeroDias" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EstadosVehiculo">
+            <EntityTypeMapping TypeName="AlquilerModel.EstadosVehiculo">
+              <MappingFragment StoreEntitySet="EstadosVehiculo">
+                <ScalarProperty Name="IdEstado" ColumnName="IdEstado" />
+                <ScalarProperty Name="nombre" ColumnName="nombre" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="tipoVehiculo">
+            <EntityTypeMapping TypeName="AlquilerModel.tipoVehiculo">
+              <MappingFragment StoreEntitySet="tipoVehiculo">
+                <ScalarProperty Name="idtipo" ColumnName="idtipo" />
+                <ScalarProperty Name="tipo" ColumnName="tipo" />
+                <ScalarProperty Name="precioAlquiler" ColumnName="precioAlquiler" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="vehiculos">
+            <EntityTypeMapping TypeName="AlquilerModel.vehiculos">
+              <MappingFragment StoreEntitySet="vehiculos">
+                <ScalarProperty Name="idVehiculo" ColumnName="idVehiculo" />
+                <ScalarProperty Name="matricula" ColumnName="matricula" />
+                <ScalarProperty Name="marca" ColumnName="marca" />
+                <ScalarProperty Name="modelo" ColumnName="modelo" />
+                <ScalarProperty Name="idTipoVehiculo" ColumnName="idTipoVehiculo" />
+                <ScalarProperty Name="idEstado" ColumnName="idEstado" />
+                <ScalarProperty Name="PesoToneladas" ColumnName="PesoToneladas" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Ninguno" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

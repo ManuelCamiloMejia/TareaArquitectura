@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AlquilerModelStoreContainer" CdmEntityContainer="AlquilerEntities">
+    <EntitySetMapping Name="Alquileres">
+      <EntityTypeMapping TypeName="AlquilerModel.Alquileres">
+        <MappingFragment StoreEntitySet="Alquileres">
+          <ScalarProperty Name="idAlquiler" ColumnName="idAlquiler" />
+          <ScalarProperty Name="idUsuario" ColumnName="idUsuario" />
+          <ScalarProperty Name="idVehiculo" ColumnName="idVehiculo" />
+          <ScalarProperty Name="precioAlquiler" ColumnName="precioAlquiler" />
+          <ScalarProperty Name="idEstado" ColumnName="idEstado" />
+          <ScalarProperty Name="numeroDias" ColumnName="numeroDias" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EstadosVehiculo">
+      <EntityTypeMapping TypeName="AlquilerModel.EstadosVehiculo">
+        <MappingFragment StoreEntitySet="EstadosVehiculo">
+          <ScalarProperty Name="IdEstado" ColumnName="IdEstado" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tipoVehiculo">
+      <EntityTypeMapping TypeName="AlquilerModel.tipoVehiculo">
+        <MappingFragment StoreEntitySet="tipoVehiculo">
+          <ScalarProperty Name="idtipo" ColumnName="idtipo" />
+          <ScalarProperty Name="tipo" ColumnName="tipo" />
+          <ScalarProperty Name="precioAlquiler" ColumnName="precioAlquiler" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vehiculos">
+      <EntityTypeMapping TypeName="AlquilerModel.vehiculos">
+        <MappingFragment StoreEntitySet="vehiculos">
+          <ScalarProperty Name="idVehiculo" ColumnName="idVehiculo" />
+          <ScalarProperty Name="matricula" ColumnName="matricula" />
+          <ScalarProperty Name="marca" ColumnName="marca" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="idTipoVehiculo" ColumnName="idTipoVehiculo" />
+          <ScalarProperty Name="idEstado" ColumnName="idEstado" />
+          <ScalarProperty Name="PesoToneladas" ColumnName="PesoToneladas" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
